@@ -1,5 +1,10 @@
 # 🎮 Web3 Skyrim Market 🎮
 
+Add 8 NFT parts
+Create smart contratct for RIG token ERC 20
+Full Invetory system in Unity.
+
+
 In this week’s Moralis Project we’re basically marrying Web2 and Web3 Gaming. We're using PlayFab as a backend for the in-game currency and for displaying items in stores. Then we add the power of Web3 through Moralis to convert these Web2 items to the actual NFTs.
 
 We do that by having different shops in the market. In the Exchange one you can trade Crystal (PlayFab currency) for Septim (ERC-20 token). Then, with that Septim, you can buy NFT Outfits at the Outfit Shop.
