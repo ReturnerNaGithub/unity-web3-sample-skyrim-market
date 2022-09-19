@@ -1,10 +1,12 @@
-# 🎮 Web3 Skyrim Market 🎮
+# 🎮 Build a RIG Marketplace 🎮
 
 Add 8 NFT parts,
 
 Create smart contratct for RIG token ERC 20,
 
 Full Invetory system in Unity,
+
+Submit project on date 19.9.2022 on Cronos Moralis Hackaton.
 
 
 
